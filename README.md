@@ -1,6 +1,6 @@
  <h1>Welcome to Einbot.
  
-<fontsize = "1"> Einbot is a ambitious bot with high hopes, even though he was born out of a tutorial on youtube. Despite what you might think, he doesn't think of himself as a failure. </font>
+<h2> Einbot is a ambitious bot with high hopes, even though he was born out of a tutorial on youtube. Despite what you might think, he doesn't think of himself as a failure. </h2>
 </h1>
 
 Needed: 
