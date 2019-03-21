@@ -1,4 +1,7 @@
-Welcome to einbot. 
+ <h1>Welcome to Einbot.
+ 
+Einbot is a ambitious bot with high hopes, even though he was born out of a tutorial on youtube. Despite what you might think, he doesn't think of himself as a failure. 
+</h1>
 
 Needed: 
 - discord account w/ developer mode enabled 
