@@ -69,4 +69,4 @@ bot.registry.registerGroup('people', 'Personal Commands');
 bot.registry.registerDefaults();//displays only the default commands 
 bot.registry.registerCommandsIn(__dirname + "/commands");//displays the rest of the commands 
 
-bot.login('NTUxMTg3NDYyOTg3MTg2MTc3.D1tZcQ.D8pZdm20Q9z3S6LUVkMtr8qtn-0');
+bot.login('');
