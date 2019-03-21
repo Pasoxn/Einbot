@@ -4,7 +4,7 @@
 </h1>
 
 Needed: 
-- discord account w/ developer mode enabled 
+- discord account with developer mode enabled 
 - a discord bot account 
 - discord.js-commando 
 - discord.js 
@@ -13,3 +13,4 @@ Needed:
 
 Optional: 
 - code editor (visual studio, atom, etc.)
+- <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8> tutorial used </a>
