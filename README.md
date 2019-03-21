@@ -13,4 +13,4 @@ Needed:
 
 Optional: 
 - code editor (visual studio, atom, etc.)
-- <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8> tutorial used </a>
+- <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8>tutorial used </a>
