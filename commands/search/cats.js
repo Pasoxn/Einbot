@@ -5,7 +5,7 @@ const querystring = require('query-string');
 const r2 = require('r2');
 
 const CAT_API_URL  = 'https://api.thecatapi.com/';
-const CAT_API_KEY = '88d41382-62e8-4a7a-a0ad-e11c4c2305c0';
+const CAT_API_KEY = 'key';
 
 
 module.exports = class Cats extends commando.Command{
@@ -42,7 +42,7 @@ constructor(client){ //passes it the input
         var query_params = {
             'mime_types': 'jpg, png', 
             'size' :'med', 
-            'sub_id': '4ohdom', 
+            'sub_id': 'subid', 
             'limit': 1
         }
 
