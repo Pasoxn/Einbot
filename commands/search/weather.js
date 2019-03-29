@@ -1,6 +1,8 @@
 const commando = require('discord.js-commando');
 const bot = new commando.Client();
 
+//it will work someday...
+
 // bot.on('message', message => {
 
 // let msg = message.content.toUpperCase();// turns the message non-case sensitive 
