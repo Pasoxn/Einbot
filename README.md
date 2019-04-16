@@ -1,7 +1,7 @@
  <h1>Welcome to Einbot.
  
-<h2> Einbot is a ambitious bot with high hopes. Despite what you might think, he doesn't think of himself as anything less than the best boi. 
-*some assembly required* </h2>
+<h2> Einbot is a ambitious bot with high hopes. Despite what you might think, he doesn't think of himself as anything less than the best boi. </h2>
+*some assembly required* 
 </h1>
 
 Needed: 
