@@ -18,7 +18,7 @@ Optional:
 - <a href = "https://discordapp.com/developers/discord">developer page</a>
 - <a href = "https://discordapi.com/permissions.html">discord permission calculator</a>
 
-<h3> Commands </h3>
+<h2> Commands </h2>
 
 
 <h4> Random </h4>
