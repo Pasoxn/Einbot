@@ -9,10 +9,10 @@ Needed:
 - discord.js-commando 
 - discord.js 
 - <a href="https://nodejs.org">node.js</a>
+- code editor (visual studio, atom, etc.)
 
 
 Optional: 
-- code editor (visual studio, atom, etc.)
 - <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8">tutorial used </a>
 - <a href = "https://discordapp.com/developers/discord">developer page</a>
 - <a href = "https://discordapi.com/permissions.html">discord permission calculator</a>
