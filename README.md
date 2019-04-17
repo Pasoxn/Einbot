@@ -5,12 +5,12 @@
 </h1>
 
 Needed: 
-- discord account with developer mode enabled 
-- a discord bot account 
-- discord.js-commando 
-- discord.js 
-- <a href="https://nodejs.org">node.js</a>
-- code editor (visual studio, atom, etc.)
+> discord account with developer mode enabled 
+> a discord bot account 
+> discord.js-commando 
+> discord.js 
+> <a href="https://nodejs.org">node.js</a>
+> code editor (visual studio, atom, etc.)
 
 Optional: 
 - <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8">tutorial used </a>
