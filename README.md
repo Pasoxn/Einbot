@@ -12,13 +12,13 @@ Needed:
 - <a href="https://nodejs.org">node.js</a>
 - code editor (visual studio, atom, etc.)
 
-Coming soon to Ein: 
-https://trello.com/b/VLxMu8qu/einbot
-
 Optional: 
 - <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8">tutorial used </a>
 - <a href = "https://discordapp.com/developers/discord">developer page</a>
 - <a href = "https://discordapi.com/permissions.html">discord permission calculator</a>
+
+Coming soon to Ein: 
+https://trello.com/b/VLxMu8qu/einbot
 
 <h2> Commands! </h2>
 
