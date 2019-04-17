@@ -12,6 +12,8 @@ Needed:
 - <a href="https://nodejs.org">node.js</a>
 - code editor (visual studio, atom, etc.)
 
+Coming soon to Ein: 
+https://trello.com/b/VLxMu8qu/einbot
 
 Optional: 
 - <a href="https://www.youtube.com/watch?v=9CDPw1lCkJ8">tutorial used </a>
