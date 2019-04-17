@@ -20,7 +20,7 @@ Optional:
 
 <h2> Commands! </h2>
 
-<h4> Random </h4>
+<h3> Random </h3>
 8ball: I'll predict your future.
 
 existentialcrisis: For those 2 am feels.
@@ -41,7 +41,7 @@ sleep: how sleep deprived are you?
 
 woof: Sometimes I get the urge to bark. That just happens to coincide with when you type the command.
 
-<h4> Personal </h4>
+<h3> Personal </h3>
 annie: All the energies.
 
 emmanuel: The Big Depresso. TBD.
@@ -50,7 +50,10 @@ kevin: Mongoloid.
 
 olivia: [lesbian description]
 
-<h4> Searching </h4>
+<h3> Searching </h3>
+cat: Pictures of those I have vanquished in my glory days.
+
+<h3> RPG </h3>
 daily: Collect your daily rations peasant.
 
 donate: Be a kind friend and pass the biscuits will you?
@@ -59,12 +62,10 @@ pantry: how poor are you?
 
 pat: Hand over the good pats and no one gets hurt.
 
-<h4> RPG </h4>
-daily: Collect your daily rations peasant.
-money: how poor are you?
-
-<h4> HELP </h4>
+<h3> HELP </h3>
 help: Displays a list of available commands, or detailed information for a specified command.
+
+help 2: Links you to github, for plebs that don't have their dms open. Come on though, who wouldn't open their DM's for Ein?
 
 prefix: Shows or sets the command prefix.
 
