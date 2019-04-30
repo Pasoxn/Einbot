@@ -76,16 +76,16 @@ cat
 daily
 > Collect your daily rations peasant.
 
-donate
+donate (!donate + # of biscuits + name *optional*)
 > Be a kind friend and pass the biscuits will you?
 
-pantry
+pantry (!pantry + name *optional*)
 >how poor are you?
 
 pat
 > Hand over the good pats and no one gets hurt.
 
-gamble 
+gamble (!gamble + # of biscuits)
 > RISK IT FOR THE BISCUIT
 
 ### HELP 
