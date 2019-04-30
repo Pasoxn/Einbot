@@ -85,6 +85,9 @@ pantry
 pat
 > Hand over the good pats and no one gets hurt.
 
+gamble 
+> RISK IT FOR THE BISCUIT
+
 ### HELP 
 
 help
