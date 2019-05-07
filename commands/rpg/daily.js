@@ -37,10 +37,9 @@ const adj = [
     'weak', 
     'soggy', 
     'stubborn', 
+    'moist'
 
  ]
-
-let random = adj[Math.floor(Math.random()* adj.length)];
 
 
 class Daily extends commando.Command {
@@ -58,25 +57,31 @@ class Daily extends commando.Command {
 
     async run(message, args) {
         //variables 
+        let random = adj[Math.floor(Math.random()* adj.length)];
         let sender = message.author;
-
         let userData = JSON.parse(fs.readFileSync('Storage/userData.json', 'utf-8')); //rewrite things every time called
 
+        //setup 
         if (!userData[sender.id + message.guild.id]) userData[sender.id + message.guild.id] = {};
-        // if (!userData[sender.id + message.guild.id].money) userData[sender.id + message.guild.id].money = 100; 
-
-        if (!userData[sender.id + message.guild.id].lastDaily) userData[sender.id + message.guild.id].lastDaily = "Not Collected";
-        //checks/creates the time they last collected their reward 
+        if (!userData[sender.id + message.guild.id].money) userData[sender.id + message.guild.id].money = 100; 
+        if (!userData[sender.id + message.guild.id].lastDaily) userData[sender.id + message.guild.id].lastDaily = "Not Collected"; //checks/creates the time they last collected their reward 
 
         if (userData[sender.id + message.guild.id].lastDaily != moment().format('L')) {
             userData[sender.id + message.guild.id].lastDaily = moment().format('L');
             
-            
+            userData[sender.id + message.guild.id].exp += 1;
             userData[sender.id + message.guild.id].money += 1;
+            
+        let lvlreq = 80 * (Math.pow((1 + .2), userData[sender.id + message.guild.id].lvl)); //exp requirement to level up 
+        if (userData[sender.id + message.guild.id].exp == lvlreq) {
+            userData[sender.id + message.guild.id].lvl += 1;
+            userData[sender.id + message.guild.id].exp = 0;
+            message.channel.send("**" + sender.username + " advanced to level " + userData[sender.id + message.guild.id].lvl + "!**");
+        }
             message.reply({embed: {
-                title: "Daily Snacc", 
+                title: "**Daily Snacc**", 
                 color: 16756952, 
-                description: "1 " + random + " biscuit was added to your pantry!"
+                description: "A " + random + " biscuit joined your pantry!"
             }});
         }
         else {
