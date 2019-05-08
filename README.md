@@ -1,5 +1,6 @@
 # Welcome to Einbot.
 ### Einbot is a ambitious bot with high hopes. Despite what you might think, he doesn't think of himself as anything less than the best boi.
+The code is not kept up to date, please message me if you want it
 
 
 ## Needed: 
