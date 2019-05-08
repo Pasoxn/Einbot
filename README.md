@@ -75,37 +75,31 @@ cat
 
 daily
 > Collect your daily rations peasant.
-stats: 
 + 1 biscuit
 + 1 exp 
 
 donate (!donate + # of biscuits + name *optional*)
 > Be a kind friend and pass the biscuits will you?
-stats:
 + x biscuits
 + 0 exp 
 
 gamble (!gamble + # of biscuits)
 > RISK IT FOR THE BISCUIT - win/lose up to 2 times what you put in
-stats:
 + x biscuits
 + 2 exp 
 
 pantry (!pantry + name *optional*)
 >how poor are you?
-stats:
 + 0 biscuits
 + 0 exp 
 
 pat (!pantry + name *optional*)
 > Hand over the good pats and no one gets hurt.
-stats:
 + 0 biscuits
 + 1 exp 
 
 slots 
 > takes 20 biscuits, spits out up to 3x the biscuits (in development)
-stats:
 + x biscuits
 + 3 exp 
 
