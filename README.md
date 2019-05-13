@@ -26,6 +26,9 @@ https://trello.com/b/VLxMu8qu/einbot
 8ball
 > I'll predict your future.
 
+Roll (!roll + # of sides)
+> roll a die and figure out how screwed you are.
+
 existentialcrisis
 > For those 2 am feels.
 
