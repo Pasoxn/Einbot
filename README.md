@@ -1,6 +1,6 @@
 # Welcome to Einbot.
 ### Einbot is a ambitious bot with high hopes. Despite what you might think, he doesn't think of himself as anything less than the best boi.
-Only the read me is kept up to date, please message me if you want updated code 
+Only the read me is kept up to date
 
 
 ## Needed: 
@@ -26,7 +26,7 @@ https://trello.com/b/VLxMu8qu/einbot
 8ball
 > I'll predict your future.
 
-Roll (!roll + # of sides)
+roll (!roll + # of sides)
 > roll a die and figure out how screwed you are.
 
 existentialcrisis
