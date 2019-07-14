@@ -1,25 +1,9 @@
 # Welcome to Einbot.
-### Einbot is a ambitious bot with high hopes. Despite what you might think, he doesn't think of himself as anything less than the best boi.
-Only the read me is kept up to date
-
-
-## Needed: 
-- discord account with developer mode enabled 
-- a discord bot account 
-- discord.js-commando 
-- discord.js 
-- [node.js](https://nodejs.org)
-- code editor (visual studio, atom, etc.)
-
-Optional: 
-- [tutorial used](https://www.youtube.com/watch?v=9CDPw1lCkJ8)
-- [developer page] (https://discordapp.com/developers/discord)
-- [discord permission calculator](https://discordapi.com/permissions.html)
 
 Coming soon to Ein: 
 https://trello.com/b/VLxMu8qu/einbot
 
-## Commands!
+## Commands
 
 ### Random </h3>
 
